@@ -1,0 +1,5 @@
+Este repositorio fue creado para subir los taller de la materia construcción de aplicaciones multiplataforma.
+
+Creado por: Sebastián Méndez Garzón 
+
+Código: 506121011
