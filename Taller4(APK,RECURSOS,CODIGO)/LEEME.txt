@@ -1,0 +1,10 @@
+Creado por: Sebastián Méndez Garzón - 506121011
+
+Este taller se divide en tres carpetas:
+
+1)Taller4: Donde se econtrará el código de la aplicación. 
+2).apk de la aplicacion: Donde estará la aplicacion en un archivo.apk
+3)recursos: Donde se encontrará los archivos necesarios para seguir los pasos del taller.
+
+Nota:
+*EL BONUS DEL TALLER SE REALIZÓ.
