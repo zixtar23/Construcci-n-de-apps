@@ -29,6 +29,30 @@
             android:id="@+id/addButton"
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
-            android:text="Add New Item"/>
+            android:text="Add New Code"/>
     </LinearLayout>
+        <ListView
+            android:id="@+id/listView1"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1">
+        </ListView>
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_gravity="bottom">
+            <EditText
+                android:id="@+id/todoText1"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"/>
+            <Button
+                android:id="@+id/addButton1"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="Add New Item"/>
+        </LinearLayout>
+
 </LinearLayout>

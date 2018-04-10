@@ -1,119 +1,12 @@
 {
   "506121011" : {
-    "-L9bOqWbmqnTe1CuL-3-" : "hola",
-    "-L9bOtSVz7mip0Hemvgt" : "prueba base de datos en Android app",
-    "texto" : "Prueba de base de datos web"
+    "-L9hKOjN7FcT8LvNBhYz" : "mensaje 1",
+    "-L9hKTNRbKbCMd3iRNwX" : "prueba 1",
+    "-L9hKbLOlH4SvJMnxXCX" : "test 1"
   },
   "Items" : {
-    "-L9bNrxTpwM6go2Tod7N" : "prueba Android app",
-    "-L9bNukOSrvMI-ouknPA" : "prueba 2"
-  },
-  "User" : [ {
-    "email" : "scoffey0@vk.com",
-    "first_name" : "Sherie",
-    "gender" : "Female",
-    "last_name" : "Coffey"
-  }, {
-    "email" : "bingamells1@instagram.com",
-    "first_name" : "Beilul",
-    "gender" : "Female",
-    "last_name" : "Ingamells"
-  }, {
-    "email" : "ccatenot2@smh.com.au",
-    "first_name" : "Clarey",
-    "gender" : "Female",
-    "last_name" : "Catenot"
-  }, {
-    "email" : "bmarsy3@youtu.be",
-    "first_name" : "Barnett",
-    "gender" : "Male",
-    "last_name" : "Marsy"
-  }, {
-    "email" : "lhammill4@unicef.org",
-    "first_name" : "Levi",
-    "gender" : "Male",
-    "last_name" : "Hammill"
-  }, {
-    "email" : "ajonsson5@about.com",
-    "first_name" : "Arnold",
-    "gender" : "Male",
-    "last_name" : "Jonsson"
-  }, {
-    "email" : "crenowden6@msn.com",
-    "first_name" : "Clement",
-    "gender" : "Male",
-    "last_name" : "Renowden"
-  }, {
-    "email" : "lbloor7@ed.gov",
-    "first_name" : "Loleta",
-    "gender" : "Female",
-    "last_name" : "Bloor"
-  }, {
-    "email" : "afarndale8@loc.gov",
-    "first_name" : "Arline",
-    "gender" : "Female",
-    "last_name" : "Farndale"
-  }, {
-    "email" : "tderington9@dailymail.co.uk",
-    "first_name" : "Trudy",
-    "gender" : "Female",
-    "last_name" : "Derington"
-  }, {
-    "email" : "abrumbiea@hostgator.com",
-    "first_name" : "Abey",
-    "gender" : "Male",
-    "last_name" : "Brumbie"
-  }, {
-    "email" : "ddowsingb@altervista.org",
-    "first_name" : "Debbi",
-    "gender" : "Female",
-    "last_name" : "Dowsing"
-  }, {
-    "email" : "jstradlingc@newsvine.com",
-    "first_name" : "Jackie",
-    "gender" : "Female",
-    "last_name" : "Stradling"
-  }, {
-    "email" : "srebertd@mayoclinic.com",
-    "first_name" : "Susanne",
-    "gender" : "Female",
-    "last_name" : "Rebert"
-  }, {
-    "email" : "rhebdone@nhs.uk",
-    "first_name" : "Red",
-    "gender" : "Male",
-    "last_name" : "Hebdon"
-  }, {
-    "email" : "vmaccoughanf@ameblo.jp",
-    "first_name" : "Vera",
-    "gender" : "Female",
-    "last_name" : "MacCoughan"
-  }, {
-    "email" : "ndomengeg@opera.com",
-    "first_name" : "Netta",
-    "gender" : "Female",
-    "last_name" : "Domenge"
-  }, {
-    "email" : "tdeverehunth@devhub.com",
-    "first_name" : "Tiler",
-    "gender" : "Male",
-    "last_name" : "De'Vere - Hunt"
-  }, {
-    "email" : "cmacfadyeni@ucla.edu",
-    "first_name" : "Cathrin",
-    "gender" : "Female",
-    "last_name" : "MacFadyen"
-  }, {
-    "email" : "ephidginj@newyorker.com",
-    "first_name" : "Erinn",
-    "gender" : "Female",
-    "last_name" : "Phidgin"
-  } ],
-  "itemList" : {
-    "-L9bOGLOufv5NfmjKy_3" : "prueba1",
-    "-L9bOH8mrC4d4IZes7Ef" : "prueba1",
-    "-L9bOJDOyk-EbNfWrFsY" : "Android pruebas",
-    "Plataforma" : "Prueba",
-    "WEB" : "webPrueba1"
+    "-L9geHVkSR3WX_U9ybCl" : "mensaje 2",
+    "-L9hKRNetH8CGmESXi-M" : "prueba 2",
+    "-L9hKbn_9F-vnno5rfbV" : "test 2"
   }
 }
